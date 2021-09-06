@@ -36,7 +36,7 @@ html {
 .menu ul li:hover>a{
     color: black;
 }
-.Image img{
+.Images img{
     width: 97.5%;
     height:800px;
     margin-left: 20px;
@@ -58,7 +58,7 @@ html {
     text-align: center;
     text-align: justify;
     background-color: grey;
-    width: 50%;
+    width: 70%;
     height: auto;
     padding: 20px;
     color: white;
@@ -74,11 +74,12 @@ html {
     display: inline-flex;
 }
 .proj{
-    width: 50%;
+    width: 60%;
     height: auto;
 }
 .proj1{
-    width: 100%;
+    background-color: orange;
+    width: 147%;
     height:220px;
     margin: 10px;   
 }
